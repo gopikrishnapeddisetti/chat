@@ -17,6 +17,8 @@ public interface Constants {
 	public static final int VIEW_ADD_CONTACT = 3;
 	public static final int VIEW_ADD_CONFERENCE = 4;
 	public static final int VIEW_ACCOUNTS = 5;
+	
+	
 	public static final int VIEW_SETTINGS = 6;
 	public static final int VIEW_ACCOUNT_SETTINGS = 7;
 
